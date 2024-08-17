@@ -1,0 +1,22 @@
+# NAME: OpenAI
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-04-29 13:37:07
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 21
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 27
+DOMAIN,ad.weixin.com
+DOMAIN,aedns.weixin.qq.com
+DOMAIN,weixin0452.com
+DOMAIN,badjs.weixinbridge.com
+DOMAIN-SUFFIX,weixinfb.cn
+DOMAIN-SUFFIX,weixinxx.com
+DOMAIN-SUFFIX,0592weixin.com
+DOMAIN-SUFFIX,910weixin.com
+DOMAIN-SUFFIX,weixin.renrenying.com
+DOMAIN-SUFFIX,weixinshexiangji.net
+DOMAIN-SUFFIX,weixinvip.ren
+
